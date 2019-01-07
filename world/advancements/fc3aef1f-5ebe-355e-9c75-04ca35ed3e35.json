@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2562-01-07 22:06:27 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2561-12-25 16:07:38 +0700"
@@ -146,6 +152,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2562-01-06 16:29:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2562-01-07 22:06:27 +0700"
     },
     "done": true
   },
@@ -415,6 +427,8 @@
       "bread": "2561-12-27 14:29:17 +0700",
       "rotten_flesh": "2561-12-26 14:58:41 +0700",
       "melon_slice": "2561-12-27 16:28:49 +0700",
+      "cooked_rabbit": "2562-01-07 22:18:33 +0700",
+      "cooked_chicken": "2562-01-07 23:05:31 +0700",
       "cooked_salmon": "2561-12-25 16:27:37 +0700"
     },
     "done": false
@@ -649,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2562-01-07 21:47:40 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2561-12-26 15:09:19 +0700"
@@ -835,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2562-01-07 22:41:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2561-12-26 15:02:03 +0700"
@@ -937,13 +963,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2561-12-26 14:52:26 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2561-12-26 14:52:26 +0700"
     },
@@ -1558,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2562-01-07 22:32:14 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2561-12-26 12:34:40 +0700"
@@ -1627,6 +1659,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2561-12-25 16:07:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2562-01-07 22:41:07 +0700"
     },
     "done": true
   },
@@ -1732,9 +1770,11 @@
       "minecraft:forest": "2561-12-25 16:04:55 +0700",
       "minecraft:mountains": "2561-12-25 16:12:47 +0700",
       "minecraft:taiga": "2561-12-27 15:26:31 +0700",
+      "minecraft:desert_hills": "2562-01-07 21:43:48 +0700",
       "minecraft:giant_tree_taiga": "2562-01-07 15:44:14 +0700",
       "minecraft:deep_cold_ocean": "2562-01-07 16:34:06 +0700",
       "minecraft:taiga_hills": "2562-01-07 15:45:34 +0700",
+      "minecraft:desert": "2562-01-07 21:44:31 +0700",
       "minecraft:deep_lukewarm_ocean": "2562-01-07 15:56:29 +0700",
       "minecraft:beach": "2562-01-07 15:52:00 +0700",
       "minecraft:dark_forest": "2562-01-07 17:04:02 +0700",
@@ -1745,6 +1785,7 @@
       "minecraft:stone_shore": "2562-01-07 16:01:51 +0700",
       "minecraft:giant_tree_taiga_hills": "2562-01-07 15:44:52 +0700",
       "minecraft:swamp": "2562-01-06 21:10:53 +0700",
+      "minecraft:savanna": "2562-01-07 21:46:18 +0700",
       "minecraft:plains": "2561-12-25 16:04:12 +0700"
     },
     "done": false

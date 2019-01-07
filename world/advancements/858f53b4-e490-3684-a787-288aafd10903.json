@@ -290,13 +290,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2562-01-05 18:28:03 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2562-01-05 18:28:03 +0700"
     },
@@ -364,6 +364,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:wolf": "2562-01-07 23:08:07 +0700",
       "minecraft:sheep": "2562-01-05 19:33:59 +0700"
     },
     "done": false
@@ -389,6 +390,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2562-01-05 18:49:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2562-01-07 22:35:25 +0700"
     },
     "done": true
   },
@@ -695,6 +702,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2562-01-05 21:31:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2562-01-07 22:37:38 +0700"
     },
     "done": true
   },
@@ -1027,11 +1040,17 @@
       "minecraft:mountains": "2562-01-05 17:46:19 +0700",
       "minecraft:forest": "2562-01-05 17:46:01 +0700",
       "minecraft:taiga": "2562-01-06 21:56:08 +0700",
+      "minecraft:desert_hills": "2562-01-07 22:29:39 +0700",
       "minecraft:taiga_hills": "2562-01-06 22:51:19 +0700",
+      "minecraft:desert": "2562-01-07 22:29:35 +0700",
+      "minecraft:birch_forest": "2562-01-07 22:21:46 +0700",
+      "minecraft:dark_forest": "2562-01-07 22:09:12 +0700",
       "minecraft:river": "2562-01-05 17:44:55 +0700",
+      "minecraft:birch_forest_hills": "2562-01-07 22:24:03 +0700",
       "minecraft:wooded_mountains": "2562-01-05 23:12:02 +0700",
       "minecraft:wooded_hills": "2562-01-05 18:46:18 +0700",
       "minecraft:swamp": "2562-01-06 21:51:54 +0700",
+      "minecraft:savanna": "2562-01-07 22:28:45 +0700",
       "minecraft:plains": "2562-01-05 17:45:40 +0700"
     },
     "done": false
