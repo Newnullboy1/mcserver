@@ -1,0 +1,113 @@
+[20:41:10] [main/INFO]: Loaded 0 recipes
+[20:41:10] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[20:41:10] [Server thread/INFO]: Loading properties
+[20:41:10] [Server thread/INFO]: Default game type: SURVIVAL
+[20:41:10] [Server thread/INFO]: Generating keypair
+[20:41:11] [Server thread/INFO]: Starting Minecraft server on 25.18.45.66:25565
+[20:41:11] [Server thread/INFO]: Using default channel type
+[20:41:12] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[20:41:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:41:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:41:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:41:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:41:12] [Server thread/INFO]: Preparing level "world"
+[20:41:12] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:41:14] [Server thread/INFO]: Loaded 524 recipes
+[20:41:15] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -7125679162164854755)
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 4%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 8%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 12%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 16%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 20%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 24%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 28%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 32%
+[20:41:15] [Server thread/INFO]: Preparing spawn area: 36%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 40%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 44%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 48%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 52%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 56%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 60%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 64%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 68%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 72%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 76%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 80%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 84%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 88%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 92%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 96%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 100%
+[20:41:16] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -7125679162164854755)
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 4%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 8%
+[20:41:16] [Server thread/INFO]: Preparing spawn area: 12%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 16%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 20%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 24%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 28%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 32%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 36%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 40%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 44%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 48%
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 52%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 56%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 60%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 64%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 68%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 72%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 76%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 80%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 84%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 88%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 92%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 96%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 100%
+[20:41:18] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -7125679162164854755)
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 4%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 8%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 12%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 16%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 20%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 24%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 28%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 32%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 36%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 40%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 44%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 48%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 52%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 56%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 60%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 64%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 68%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 72%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 76%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 80%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 84%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 88%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 92%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 96%
+[20:41:20] [Server thread/INFO]: Preparing spawn area: 100%
+[20:41:20] [Server thread/INFO]: Time elapsed: 4813 ms
+[20:41:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:41:20] [Server thread/INFO]: Done (7.848s)! For help, type "help"
+[20:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6351ms or 127 ticks behind
+[20:41:59] [Server thread/INFO]: Newnullboy[/25.18.5.180:51131] logged in with entity id 373 at ([world]774.0233188942728, 65.0, 1330.8753368027817)
+[20:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4785ms or 95 ticks behind
+[20:42:51] [Server thread/WARN]: Newnullboy moved too quickly! 5.596996160577191,4.0,-20.293241299907095
+[20:43:00] [Server thread/INFO]: chin[/25.18.45.66:61314] logged in with entity id 895 at ([world]-26.24038540821958, 64.5625, -174.45341189108598)
+[20:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4897ms or 97 ticks behind
+[20:43:56] [Server thread/INFO]: Newnullboy lost connection: Disconnected
+[20:43:56] [Server thread/INFO]: Newnullboy left the game
+[20:44:00] [Server thread/INFO]: chin lost connection: Disconnected
+[20:44:00] [Server thread/INFO]: chin left the game
+[20:44:09] [Server thread/INFO]: Stopping the server
+[20:44:09] [Server thread/INFO]: Stopping server
+[20:44:09] [Server thread/INFO]: Saving players
+[20:44:09] [Server thread/INFO]: Saving worlds
+[20:44:09] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[20:44:09] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[20:44:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
