@@ -1,292 +1,130 @@
-[21:26:52] [main/INFO]: Loaded 0 recipes
-[21:26:52] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[21:26:52] [Server thread/INFO]: Loading properties
-[21:26:52] [Server thread/INFO]: Default game type: SURVIVAL
-[21:26:52] [Server thread/INFO]: Generating keypair
-[21:26:52] [Server thread/INFO]: Starting Minecraft server on 25.18.5.180:25565
-[21:26:52] [Server thread/INFO]: Using default channel type
-[21:26:53] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[21:26:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:26:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:26:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:26:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:26:53] [Server thread/INFO]: Preparing level "world"
-[21:26:54] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[21:26:54] [Server thread/INFO]: Loaded 524 recipes
-[21:26:55] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -7125679162164854755)
-[21:26:55] [Server thread/INFO]: Preparing spawn area: 4%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 8%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 12%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 16%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 20%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 24%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 28%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 32%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 36%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 40%
-[21:26:56] [Server thread/INFO]: Preparing spawn area: 44%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 48%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 52%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 56%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 60%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 64%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 68%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 72%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 76%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 80%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 84%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 88%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 92%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 96%
-[21:26:57] [Server thread/INFO]: Preparing spawn area: 100%
-[21:26:57] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -7125679162164854755)
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 4%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 8%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 12%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 16%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 20%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 24%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 28%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 32%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 36%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 40%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 44%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 48%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 52%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 56%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 60%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 64%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 68%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 72%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 76%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 80%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 84%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 88%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 92%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 96%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 100%
-[21:26:58] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -7125679162164854755)
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 4%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 8%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 12%
-[21:26:58] [Server thread/INFO]: Preparing spawn area: 16%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 20%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 24%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 28%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 32%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 36%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 40%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 44%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 48%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 52%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 56%
-[21:26:59] [Server thread/INFO]: Preparing spawn area: 60%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 64%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 68%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 72%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 76%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 80%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 84%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 88%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 92%
-[21:27:00] [Server thread/INFO]: Preparing spawn area: 96%
-[21:27:01] [Server thread/INFO]: Preparing spawn area: 100%
-[21:27:01] [Server thread/INFO]: Time elapsed: 5425 ms
-[21:27:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:27:01] [Server thread/INFO]: Done (7.122s)! For help, type "help"
-[21:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
-[21:27:43] [Server thread/INFO]: Newnullboy[/25.18.5.180:51700] logged in with entity id 387 at ([world]861.020500315907, 67.0, 1329.4374692764623)
-[21:27:46] [Server thread/INFO]: chin[/25.18.45.66:53804] logged in with entity id 643 at ([world]-25.763003234526096, 64.0, -168.8438787062625)
-[21:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6490ms or 129 ticks behind
-[21:27:57] [Server thread/WARN]: Newnullboy moved too quickly! -2.0658673999537314,-0.2522033402537289,-11.413099629377939
-[21:30:22] [Server thread/INFO]: Newnullboy lost connection: Disconnected
-[21:30:23] [Server thread/INFO]: Newnullboy left the game
-[21:30:32] [Server thread/INFO]: Newnullboy[/25.18.5.180:51704] logged in with entity id 7284 at ([world]849.060208683822, 71.0, 1276.2507139174986)
-[21:31:14] [Server thread/INFO]: Sypertier[/25.70.252.62:62123] logged in with entity id 8445 at ([world]-29.53225287736477, 69.0, -182.56636045017882)
-[21:32:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[21:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
-[21:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
-[21:36:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[21:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[21:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
-[21:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
-[21:39:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[21:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
-[21:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
-[21:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7005ms or 140 ticks behind
-[21:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11755ms or 235 ticks behind
-[21:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6077ms or 121 ticks behind
-[21:41:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4807ms or 96 ticks behind
-[21:41:57] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[21:41:57] [Server thread/INFO]: Sypertier left the game
-[21:42:02] [Server thread/INFO]: Newnullboy lost connection: Disconnected
-[21:42:02] [Server thread/INFO]: Newnullboy left the game
-[21:42:10] [Server thread/INFO]: Sypertier[/25.70.252.62:62145] logged in with entity id 34690 at ([world]377.4778385155481, 65.0, 361.2777741817674)
-[21:42:16] [Server thread/INFO]: Newnullboy[/25.18.5.180:51735] logged in with entity id 35525 at ([world]847.6624001440955, 70.0, 1286.625429314087)
-[21:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
-[21:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6398ms or 127 ticks behind
-[21:43:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16269ms or 325 ticks behind
-[21:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25832ms or 516 ticks behind
-[21:44:14] [Server thread/WARN]: chin moved too quickly! -11.181148450289513,-0.2468000194787976,-7.4941456773455215
-[21:44:14] [Server thread/WARN]: Sypertier moved too quickly! 4.682323140493509,-4.020679542666713,10.063674876808022
-[21:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23916ms or 478 ticks behind
-[21:44:45] [Server thread/INFO]: Newnullboy has made the advancement [Hot Stuff]
-[21:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15829ms or 316 ticks behind
-[21:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15480ms or 309 ticks behind
-[21:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
-[21:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3885ms or 77 ticks behind
-[21:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5734ms or 114 ticks behind
-[21:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
-[21:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
-[21:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[21:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
-[21:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
-[21:48:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
-[21:48:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
-[21:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
-[21:50:15] [Server thread/INFO]: Milky[/25.42.86.12:51872] logged in with entity id 57202 at ([world]6.973339690089848, 67.0, -100.96026802556514)
-[21:50:33] [Server thread/INFO]: [Server] kuy
-[21:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
-[21:50:37] [Server thread/WARN]: chin moved too quickly! 5.4365046056773245,2.5292232112077713,8.536340252928767
-[21:50:44] [Server thread/INFO]: [Server] Kuy
-[21:51:00] [Server thread/INFO]: [Server] Kuy
-[21:51:19] [Server thread/INFO]: [Server] sus
-[21:51:23] [Netty Server IO #7/INFO]: <Sypertier> KUY[m
-[21:51:38] [Netty Server IO #9/INFO]: <Newnullboy> ...[m
-[21:53:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[21:55:21] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[21:55:21] [Server thread/INFO]: Sypertier left the game
-[21:55:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[21:55:42] [Server thread/INFO]: Sypertier[/25.70.252.62:62168] logged in with entity id 70279 at ([world]865.0961819414846, 69.0, 1294.429067278391)
-[21:55:47] [Server thread/INFO]: Newnullboy has made the advancement [Best Friends Forever]
-[21:55:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
-[21:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[21:57:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3813ms or 76 ticks behind
-[21:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[21:57:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
-[21:58:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6034ms or 120 ticks behind
-[21:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
-[21:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4490ms or 89 ticks behind
-[21:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
-[21:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3797ms or 75 ticks behind
-[21:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7013ms or 140 ticks behind
-[22:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
-[22:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[22:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3821ms or 76 ticks behind
-[22:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4657ms or 93 ticks behind
-[22:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
-[22:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
-[22:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8751ms or 175 ticks behind
-[22:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[22:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2957ms or 59 ticks behind
-[22:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[22:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[22:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[22:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
-[22:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[22:07:43] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[22:07:43] [Server thread/INFO]: Sypertier left the game
-[22:07:50] [Server thread/INFO]: Sypertier[/25.70.252.62:62190] logged in with entity id 97649 at ([world]850.5918637472333, 70.0, 1275.1556529822983)
-[22:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[22:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4663ms or 93 ticks behind
-[22:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
-[22:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8301ms or 166 ticks behind
-[22:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6441ms or 128 ticks behind
-[22:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6670ms or 133 ticks behind
-[22:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
-[22:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
-[22:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5422ms or 108 ticks behind
-[22:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[22:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5380ms or 107 ticks behind
-[22:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3590ms or 71 ticks behind
-[22:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[22:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5096ms or 101 ticks behind
-[22:15:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3908ms or 78 ticks behind
-[22:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
-[22:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4381ms or 87 ticks behind
-[22:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
-[22:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
-[22:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[22:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
-[22:17:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5194ms or 103 ticks behind
-[22:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4312ms or 86 ticks behind
-[22:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5723ms or 114 ticks behind
-[22:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4612ms or 92 ticks behind
-[22:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3084ms or 61 ticks behind
-[22:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8640ms or 172 ticks behind
-[22:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8169ms or 163 ticks behind
-[22:20:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5299ms or 105 ticks behind
-[22:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
-[22:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
-[22:21:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
-[22:21:09] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[22:21:09] [Server thread/INFO]: Sypertier left the game
-[22:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2543ms or 50 ticks behind
-[22:21:25] [Server thread/INFO]: Sypertier[/25.70.252.62:62207] logged in with entity id 133093 at ([world]840.9955931850592, 70.0, 1281.3294536437413)
-[22:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[22:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
-[22:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2996ms or 59 ticks behind
-[22:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5197ms or 103 ticks behind
-[22:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3713ms or 74 ticks behind
-[22:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
-[22:23:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
-[22:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
-[22:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[22:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
-[22:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
-[22:25:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
-[22:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[22:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[22:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4941ms or 98 ticks behind
-[22:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
-[22:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10440ms or 208 ticks behind
-[22:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8941ms or 178 ticks behind
-[22:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
-[22:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[22:33:04] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[22:33:04] [Server thread/INFO]: Sypertier left the game
-[22:33:23] [Server thread/INFO]: Sypertier[/25.70.252.62:62233] logged in with entity id 159523 at ([world]840.5710060983953, 70.0, 1277.3436282435366)
-[22:37:38] [Server thread/INFO]: Milky has made the advancement [Best Friends Forever]
-[22:41:07] [Server thread/INFO]: Sypertier has made the advancement [Ice Bucket Challenge]
-[22:43:21] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[22:43:21] [Server thread/INFO]: Sypertier left the game
-[22:43:23] [Server thread/INFO]: Newnullboy lost connection: Disconnected
-[22:43:23] [Server thread/INFO]: Newnullboy left the game
-[22:44:05] [Server thread/INFO]: Newnullboy[/25.18.5.180:51885] logged in with entity id 172371 at ([world]820.0425343571171, 72.0, 1277.3722606896376)
-[22:44:08] [Server thread/INFO]: Sypertier[/25.70.252.62:62262] logged in with entity id 172586 at ([world]819.2495779491752, 73.0, 1282.0081282913884)
-[22:45:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[22:46:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:50:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[22:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
-[22:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
-[22:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[22:54:28] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[22:54:28] [Server thread/INFO]: Sypertier left the game
-[22:54:31] [Server thread/INFO]: Newnullboy lost connection: Disconnected
-[22:54:31] [Server thread/INFO]: Newnullboy left the game
-[22:54:59] [Server thread/INFO]: Newnullboy[/25.18.5.180:51905] logged in with entity id 188790 at ([world]428.82728389472703, 64.0, 583.1079686945095)
-[22:54:59] [Server thread/INFO]: Sypertier[/25.70.252.62:62275] logged in with entity id 188992 at ([world]433.38168316749807, 64.8500000178814, 577.6091558034041)
-[22:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[23:04:15] [Server thread/INFO]: Newnullboy has made the advancement [Fishy Business]
-[23:10:12] [Server thread/INFO]: chin lost connection: Disconnected
-[23:10:12] [Server thread/INFO]: chin left the game
-[23:10:16] [Server thread/INFO]: Newnullboy lost connection: Disconnected
-[23:10:16] [Server thread/INFO]: Newnullboy left the game
-[23:10:18] [Server thread/INFO]: Sypertier lost connection: Disconnected
-[23:10:18] [Server thread/INFO]: Sypertier left the game
-[23:10:25] [Server thread/INFO]: Milky lost connection: Disconnected
-[23:10:25] [Server thread/INFO]: Milky left the game
-[23:10:44] [Server thread/INFO]: Milky[/25.42.86.12:52155] logged in with entity id 212976 at ([world]-29.561591300790084, 64.0, -167.51450598188063)
-[23:10:56] [Server thread/INFO]: Milky lost connection: Disconnected
-[23:10:56] [Server thread/INFO]: Milky left the game
-[23:11:05] [Server thread/INFO]: Stopping the server
-[23:11:05] [Server thread/INFO]: Stopping server
-[23:11:05] [Server thread/INFO]: Saving players
-[23:11:06] [Server thread/INFO]: Saving worlds
-[23:11:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:11:06] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[23:11:06] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[19:29:13] [main/INFO]: Loaded 0 recipes
+[19:29:13] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[19:29:13] [Server thread/INFO]: Loading properties
+[19:29:13] [Server thread/INFO]: Default game type: SURVIVAL
+[19:29:13] [Server thread/INFO]: Generating keypair
+[19:29:13] [Server thread/INFO]: Starting Minecraft server on 25.18.45.66:25565
+[19:29:13] [Server thread/INFO]: Using default channel type
+[19:29:15] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[19:29:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:29:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:29:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:29:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:29:15] [Server thread/INFO]: Preparing level "world"
+[19:29:15] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:29:17] [Server thread/INFO]: Loaded 524 recipes
+[19:29:19] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -7125679162164854755)
+[19:29:19] [Server thread/INFO]: Preparing spawn area: 4%
+[19:29:19] [Server thread/INFO]: Preparing spawn area: 8%
+[19:29:19] [Server thread/INFO]: Preparing spawn area: 12%
+[19:29:19] [Server thread/INFO]: Preparing spawn area: 16%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 20%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 24%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 28%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 32%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 36%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 40%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 44%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 48%
+[19:29:20] [Server thread/INFO]: Preparing spawn area: 52%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 56%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 60%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 64%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 68%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 72%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 76%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 80%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 84%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 88%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 92%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 96%
+[19:29:21] [Server thread/INFO]: Preparing spawn area: 100%
+[19:29:21] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -7125679162164854755)
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 4%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 8%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 12%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 16%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 20%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 24%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 28%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 32%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 36%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 40%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 44%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 48%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 52%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 56%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 60%
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 64%
+[19:29:24] [Server thread/INFO]: Preparing spawn area: 68%
+[19:29:24] [Server thread/INFO]: Preparing spawn area: 72%
+[19:29:24] [Server thread/INFO]: Preparing spawn area: 76%
+[19:29:24] [Server thread/INFO]: Preparing spawn area: 80%
+[19:29:24] [Server thread/INFO]: Preparing spawn area: 84%
+[19:29:24] [Server thread/INFO]: Preparing spawn area: 88%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 92%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 96%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 100%
+[19:29:25] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -7125679162164854755)
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 4%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 8%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 12%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 16%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 20%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 24%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 28%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 32%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 36%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 40%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 44%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 48%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 52%
+[19:29:25] [Server thread/INFO]: Preparing spawn area: 56%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 60%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 64%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 68%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 72%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 76%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 80%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 84%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 88%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 92%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 96%
+[19:29:26] [Server thread/INFO]: Preparing spawn area: 100%
+[19:29:26] [Server thread/INFO]: Time elapsed: 7090 ms
+[19:29:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:29:26] [Server thread/INFO]: Done (10.787s)! For help, type "help"
+[19:29:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5431ms or 108 ticks behind
+[19:29:56] [Server thread/INFO]: Milky[/25.42.86.12:53934] logged in with entity id 439 at ([world]-21.771461591061712, 63.0, -152.36230302098582)
+[19:31:03] [Server thread/INFO]: chin[/25.18.45.66:49859] logged in with entity id 2405 at ([world]-26.404076636863245, 60.0, -154.52253712765494)
+[19:33:35] [Server thread/INFO]: chin lost connection: Disconnected
+[19:33:35] [Server thread/INFO]: chin left the game
+[20:10:39] [Server thread/INFO]: chin[/25.18.45.66:49943] logged in with entity id 41293 at ([world]-28.101256037001544, 64.0, -176.74469062659261)
+[20:11:18] [Server thread/INFO]: chin has made the advancement [Tactical Fishing]
+[20:18:35] [Server thread/INFO]: Newnullboy[/25.18.5.180:60415] logged in with entity id 50919 at ([world]-25.30000001192093, 64.0, -176.90147212764043)
+[20:49:00] [Server thread/INFO]: Milky has made the advancement [Fishy Business]
+[20:57:31] [Server thread/INFO]: Sypertier[/25.70.252.62:49361] logged in with entity id 91064 at ([world]125.48750001192093, 38.0, -3.7426080078453747)
+[21:00:06] [Server thread/INFO]: chin lost connection: Disconnected
+[21:00:06] [Server thread/INFO]: chin left the game
+[21:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[21:00:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[21:02:05] [Server thread/INFO]: Milky lost connection: Timed out
+[21:02:05] [Server thread/INFO]: Milky left the game
+[21:02:05] [Server thread/WARN]: handleDisconnection() called twice
+[21:02:46] [Server thread/INFO]: Milky[/25.42.86.12:54218] logged in with entity id 97140 at ([world]-33.64627400349633, 64.0, -168.7089493984664)
+[21:06:30] [Server thread/INFO]: chin[/25.18.45.66:50022] logged in with entity id 100176 at ([world]-30.080890637404707, 64.0, -172.76867329812484)
+[21:10:44] [Server thread/INFO]: chin lost connection: Disconnected
+[21:10:44] [Server thread/INFO]: chin left the game
+[21:10:46] [Server thread/INFO]: Newnullboy lost connection: Disconnected
+[21:10:46] [Server thread/INFO]: Newnullboy left the game
+[21:10:50] [Server thread/INFO]: Sypertier lost connection: Disconnected
+[21:10:50] [Server thread/INFO]: Sypertier left the game
+[21:10:59] [Server thread/INFO]: Stopping the server
+[21:11:00] [Server thread/INFO]: Stopping server
+[21:11:00] [Server thread/INFO]: Saving players
+[21:11:00] [Server thread/INFO]: Milky lost connection: Server closed
+[21:11:00] [Server thread/INFO]: Milky left the game
+[21:11:00] [Server thread/INFO]: Saving worlds
+[21:11:00] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[21:11:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:11:00] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end

@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2562-01-08 17:59:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2562-01-06 23:36:05 +0700"
@@ -68,6 +74,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2562-01-05 18:28:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2562-01-08 19:44:44 +0700"
     },
     "done": true
   },
@@ -317,6 +329,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2562-01-05 18:28:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2562-01-08 19:44:44 +0700"
     },
     "done": true
   },
@@ -582,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2562-01-08 19:44:44 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2562-01-05 17:57:00 +0700"
@@ -605,6 +629,7 @@
       "minecraft:enderman": "2562-01-05 22:29:41 +0700",
       "minecraft:spider": "2562-01-06 22:18:45 +0700",
       "minecraft:zombie": "2562-01-06 23:44:58 +0700",
+      "minecraft:drowned": "2562-01-08 18:43:53 +0700",
       "minecraft:slime": "2562-01-05 19:27:00 +0700"
     },
     "done": false
@@ -819,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2562-01-08 17:59:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2562-01-05 19:48:29 +0700"
@@ -882,6 +913,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2562-01-05 19:42:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2562-01-08 17:53:43 +0700"
     },
     "done": true
   },
@@ -957,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2562-01-08 17:59:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2562-01-05 19:42:41 +0700"
@@ -984,6 +1027,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2562-01-05 18:28:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2562-01-08 19:44:44 +0700"
     },
     "done": true
   },
@@ -1029,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2562-01-08 17:52:24 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2562-01-05 18:30:40 +0700"
@@ -1037,8 +1092,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2562-01-05 17:46:19 +0700",
       "minecraft:forest": "2562-01-05 17:46:01 +0700",
+      "minecraft:mountains": "2562-01-05 17:46:19 +0700",
       "minecraft:taiga": "2562-01-06 21:56:08 +0700",
       "minecraft:desert_hills": "2562-01-07 22:29:39 +0700",
       "minecraft:taiga_hills": "2562-01-06 22:51:19 +0700",
@@ -1103,9 +1158,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2562-01-08 17:59:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2562-01-05 18:54:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2562-01-08 19:44:44 +0700"
     },
     "done": true
   },
@@ -1145,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2562-01-08 20:49:00 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2562-01-05 17:57:00 +0700"
@@ -1172,6 +1245,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2562-01-05 23:42:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2562-01-08 17:53:43 +0700"
     },
     "done": true
   },
