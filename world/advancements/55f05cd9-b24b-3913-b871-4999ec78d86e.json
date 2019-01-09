@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2562-01-08 22:22:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2562-01-08 22:22:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2562-01-06 20:27:35 +0700"
@@ -116,6 +128,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2562-01-07 21:53:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2562-01-08 22:22:41 +0700"
     },
     "done": true
   },
@@ -259,6 +277,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_carrot": "2562-01-08 21:49:46 +0700",
       "cooked_salmon": "2562-01-06 20:27:27 +0700"
     },
     "done": false
@@ -272,6 +291,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2562-01-07 21:32:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2562-01-08 21:51:31 +0700"
     },
     "done": true
   },
@@ -311,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2562-01-08 21:52:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2562-01-07 21:53:36 +0700"
@@ -323,15 +354,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2562-01-07 21:29:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2562-01-07 21:29:06 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_sand": "2562-01-07 21:29:06 +0700"
+      "has_at_least_9_wheat": "2562-01-08 22:22:41 +0700"
     },
     "done": true
   },
@@ -368,6 +405,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2562-01-07 22:14:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2562-01-08 21:52:29 +0700"
     },
     "done": true
   },
@@ -512,6 +555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2562-01-08 21:51:31 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2562-01-06 20:27:35 +0700"
@@ -545,6 +594,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2562-01-06 20:27:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2562-01-08 21:52:29 +0700"
     },
     "done": true
   },
@@ -650,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2562-01-08 21:52:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2562-01-06 21:42:07 +0700"
@@ -732,6 +793,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2562-01-07 21:53:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2562-01-08 21:48:42 +0700"
     },
     "done": true
   },
@@ -1011,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2562-01-08 22:22:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2562-01-08 20:46:12 +0700"
@@ -1071,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2562-01-09 05:31:45 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2562-01-06 20:26:04 +0700"
@@ -1080,6 +1159,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2562-01-06 21:26:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2562-01-08 21:52:29 +0700"
     },
     "done": true
   },
@@ -1131,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2562-01-08 21:52:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:drowned": "2562-01-06 21:33:39 +0700"
@@ -1170,16 +1261,22 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2562-01-06 21:29:43 +0700",
-      "minecraft:mountains": "2562-01-06 20:21:43 +0700",
       "minecraft:forest": "2562-01-06 20:21:10 +0700",
+      "minecraft:mountains": "2562-01-06 20:21:43 +0700",
+      "minecraft:taiga": "2562-01-08 22:09:13 +0700",
       "minecraft:desert_hills": "2562-01-06 21:49:02 +0700",
+      "minecraft:giant_tree_taiga": "2562-01-08 22:08:57 +0700",
       "minecraft:deep_cold_ocean": "2562-01-06 21:35:23 +0700",
       "minecraft:desert": "2562-01-06 21:43:21 +0700",
       "minecraft:birch_forest": "2562-01-06 21:15:56 +0700",
+      "minecraft:deep_lukewarm_ocean": "2562-01-08 22:23:05 +0700",
       "minecraft:beach": "2562-01-06 21:29:23 +0700",
       "minecraft:dark_forest": "2562-01-06 21:29:34 +0700",
       "minecraft:river": "2562-01-06 20:20:09 +0700",
+      "minecraft:lukewarm_ocean": "2562-01-08 22:21:24 +0700",
       "minecraft:wooded_hills": "2562-01-06 20:28:37 +0700",
+      "minecraft:giant_tree_taiga_hills": "2562-01-08 22:36:40 +0700",
+      "minecraft:stone_shore": "2562-01-08 22:26:39 +0700",
       "minecraft:swamp": "2562-01-06 21:11:33 +0700",
       "minecraft:savanna": "2562-01-06 21:50:25 +0700",
       "minecraft:plains": "2562-01-06 20:19:26 +0700"
@@ -1195,6 +1292,18 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2562-01-06 20:25:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2562-01-08 22:22:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2562-01-08 21:53:16 +0700"
     },
     "done": true
   },
@@ -1321,6 +1430,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2562-01-08 20:46:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2562-01-08 21:52:29 +0700"
     },
     "done": true
   },
