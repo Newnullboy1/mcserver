@@ -1,1 +1,1 @@
-java -Xmx1024M -jar server.jar -o false
+java -Xmx2048M -jar server.jar -o false

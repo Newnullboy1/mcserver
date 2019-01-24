@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2562-01-10 14:22:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2562-01-04 00:19:37 +0700"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2562-01-15 23:38:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2561-12-25 16:07:05 +0700"
@@ -236,6 +248,14 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2562-01-05 23:33:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2562-01-12 23:57:49 +0700",
+      "diamond_helmet": "2562-01-12 23:57:49 +0700",
+      "diamond_boots": "2562-01-12 23:57:49 +0700"
     },
     "done": true
   },
@@ -323,6 +343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2562-01-13 17:45:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2561-12-25 16:07:05 +0700"
@@ -383,6 +409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2562-01-11 12:12:12 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2561-12-27 15:31:08 +0700"
@@ -423,19 +455,33 @@
     "criteria": {
       "beetroot_soup": "2562-01-07 17:10:59 +0700",
       "apple": "2561-12-25 16:24:07 +0700",
+      "potato": "2562-01-09 20:41:13 +0700",
       "cooked_cod": "2561-12-26 14:09:29 +0700",
       "bread": "2561-12-27 14:29:17 +0700",
       "rotten_flesh": "2561-12-26 14:58:41 +0700",
       "melon_slice": "2561-12-27 16:28:49 +0700",
       "cooked_rabbit": "2562-01-07 22:18:33 +0700",
       "cooked_chicken": "2562-01-07 23:05:31 +0700",
-      "cooked_salmon": "2561-12-25 16:27:37 +0700"
+      "cooked_salmon": "2561-12-25 16:27:37 +0700",
+      "carrot": "2562-01-09 16:03:36 +0700"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2561-12-25 16:07:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2562-01-09 21:40:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2562-01-13 00:29:32 +0700"
     },
     "done": true
   },
@@ -511,13 +557,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2561-12-25 16:39:29 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2561-12-25 16:39:29 +0700"
     },
@@ -604,6 +650,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2561-12-26 14:54:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2562-01-11 12:12:12 +0700"
     },
     "done": true
   },
@@ -747,6 +799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2562-01-10 14:29:05 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2561-12-25 16:05:51 +0700"
@@ -768,6 +826,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2561-12-26 17:00:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2562-01-09 21:40:56 +0700"
     },
     "done": true
   },
@@ -804,6 +868,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2561-12-26 15:36:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2562-01-10 16:18:14 +0700"
     },
     "done": true
   },
@@ -992,12 +1062,17 @@
       "minecraft:blaze": "2562-01-06 14:42:36 +0700",
       "minecraft:skeleton": "2561-12-26 13:53:57 +0700",
       "minecraft:phantom": "2562-01-06 20:10:15 +0700",
+      "minecraft:witch": "2562-01-10 16:47:21 +0700",
+      "minecraft:husk": "2562-01-10 16:29:52 +0700",
+      "minecraft:ghast": "2562-01-12 12:31:35 +0700",
       "minecraft:cave_spider": "2562-01-01 22:06:56 +0700",
+      "minecraft:guardian": "2562-01-15 23:37:27 +0700",
+      "minecraft:enderman": "2562-01-11 00:00:49 +0700",
       "minecraft:silverfish": "2561-12-27 21:32:20 +0700",
       "minecraft:spider": "2561-12-26 13:54:27 +0700",
       "minecraft:zombie": "2561-12-25 16:29:06 +0700",
-      "minecraft:creeper": "2561-12-26 14:54:31 +0700",
       "minecraft:drowned": "2562-01-07 15:29:40 +0700",
+      "minecraft:creeper": "2561-12-26 14:54:31 +0700",
       "minecraft:slime": "2562-01-03 14:49:54 +0700"
     },
     "done": false
@@ -1011,6 +1086,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2562-01-03 16:31:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2562-01-10 15:51:53 +0700"
     },
     "done": true
   },
@@ -1035,6 +1116,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2561-12-26 12:39:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2562-01-11 12:10:59 +0700"
     },
     "done": true
   },
@@ -1077,6 +1164,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2562-01-07 15:55:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2562-01-10 21:47:05 +0700"
     },
     "done": true
   },
@@ -1284,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2562-01-13 23:37:05 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2561-12-26 14:39:28 +0700"
@@ -1410,6 +1509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2562-01-10 13:08:44 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2561-12-26 12:41:28 +0700"
@@ -1419,6 +1524,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2561-12-26 13:13:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2562-01-10 23:04:47 +0700"
     },
     "done": true
   },
@@ -1455,6 +1566,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2561-12-26 13:13:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2562-01-10 21:38:26 +0700"
     },
     "done": true
   },
@@ -1668,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2562-01-15 23:38:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2562-01-07 22:41:07 +0700"
@@ -1701,6 +1824,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2561-12-26 12:39:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2562-01-09 16:34:40 +0700"
     },
     "done": true
   },
@@ -1758,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2562-01-10 15:51:53 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2562-01-06 16:29:39 +0700"
@@ -1773,23 +1908,24 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2562-01-07 16:35:06 +0700",
-      "minecraft:forest": "2561-12-25 16:04:55 +0700",
       "minecraft:mountains": "2561-12-25 16:12:47 +0700",
+      "minecraft:forest": "2561-12-25 16:04:55 +0700",
       "minecraft:taiga": "2561-12-27 15:26:31 +0700",
       "minecraft:desert_hills": "2562-01-07 21:43:48 +0700",
       "minecraft:giant_tree_taiga": "2562-01-07 15:44:14 +0700",
       "minecraft:deep_cold_ocean": "2562-01-07 16:34:06 +0700",
       "minecraft:taiga_hills": "2562-01-07 15:45:34 +0700",
       "minecraft:desert": "2562-01-07 21:44:31 +0700",
+      "minecraft:birch_forest": "2562-01-09 22:10:05 +0700",
       "minecraft:deep_lukewarm_ocean": "2562-01-07 15:56:29 +0700",
       "minecraft:beach": "2562-01-07 15:52:00 +0700",
       "minecraft:dark_forest": "2562-01-07 17:04:02 +0700",
-      "minecraft:river": "2561-12-25 16:05:13 +0700",
       "minecraft:lukewarm_ocean": "2562-01-07 15:52:45 +0700",
+      "minecraft:river": "2561-12-25 16:05:13 +0700",
       "minecraft:wooded_mountains": "2561-12-26 12:47:46 +0700",
       "minecraft:wooded_hills": "2561-12-25 16:22:05 +0700",
-      "minecraft:stone_shore": "2562-01-07 16:01:51 +0700",
       "minecraft:giant_tree_taiga_hills": "2562-01-07 15:44:52 +0700",
+      "minecraft:stone_shore": "2562-01-07 16:01:51 +0700",
       "minecraft:swamp": "2562-01-06 21:10:53 +0700",
       "minecraft:savanna": "2562-01-07 21:46:18 +0700",
       "minecraft:plains": "2561-12-25 16:04:12 +0700"
@@ -1811,6 +1947,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2562-01-07 16:03:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2562-01-09 21:42:27 +0700"
     },
     "done": true
   },
@@ -1865,6 +2007,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2561-12-25 16:07:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2562-01-13 00:29:32 +0700"
     },
     "done": true
   },
@@ -1937,6 +2085,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2561-12-26 12:34:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2562-01-12 21:31:57 +0700"
     },
     "done": true
   },
@@ -2042,6 +2196,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2562-01-15 23:38:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2562-01-12 21:31:57 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2562-01-06 14:27:44 +0700"
@@ -2084,6 +2250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2562-01-10 21:47:12 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2562-01-02 17:12:38 +0700"
@@ -2111,6 +2283,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2562-01-07 15:46:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2562-01-10 15:51:53 +0700"
     },
     "done": true
   },
